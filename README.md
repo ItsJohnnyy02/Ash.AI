@@ -64,8 +64,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![#codex-chat _ Ashes Codex - MMO Wiki - Discord 3_14_2025 11_22_29 PM](https://github.com/user-attachments/assets/4ef3991b-f683-44ac-990a-6e8692d67f0e)
-![#codex-chat _ Ashes Codex - MMO Wiki - Discord 3_14_2025 11_22_14 PM](https://github.com/user-attachments/assets/2068853c-7427-4bc2-9472-d0e3f1616e3b)
-![#itemshuntmob _ test - Discord 3_30_2025 9_39_05 AM](https://github.com/user-attachments/assets/5b59fc88-ea3e-453e-958f-1219f2bf549c)
+
+![#codex-chat _ Ashes Codex - MMO Wiki - Discord 3_14_2025 11_22_14 PM](https://github.com/user-attachments/assets/1f0d6268-c7ee-4b20-b4b9-4bfa007f47f1)
+![#itemshuntmob _ test - Discord 3_30_2025 9_39_05 AM](https://github.com/user-attachments/assets/893b22d5-b21f-4169-8943-db35f6550f52)
+![#codex-chat _ Ashes Codex - MMO Wiki - Discord 3_14_2025 11_22_29 PM](https://github.com/user-attachments/assets/7c82a5b3-523a-4a46-be2f-5cb8eda48b3f)
 
 
